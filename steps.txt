@@ -1,0 +1,4 @@
+1/ create empty repository od git hub
+2/ create empty locak repository 
+3/ git init - initialize repository 
+4/ connect repository  - git remote add ..................
