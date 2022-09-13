@@ -1,4 +1,8 @@
+connect Local to remote 
+
 1/ create empty repository od git hub
-2/ create empty locak repository 
+2/ create empty local repository 
 3/ git init - initialize repository 
-4/ connect repository  - git remote add ..................
+4/ connect repository:  git remote add ..................
+5/  git push --set-upstream origin main
+
